@@ -1,15 +1,15 @@
 # EZInterpreter
-interpreter for EZ language
+Interpreter for EZ language
 EZ Programming Language. 
 
 Although the EZ language only has five keywords, it allows users to declare and call functions. 
 The five keywords in the EZ language are as follows:
 
 * proc <<identifier> identifier> declares a procedure named identifier
-* call <identifier> calls procedure identifier
+* call <<identifier> identifier> calls procedure identifier
 * stop ends execution of current procedure
-* echo <text<>> displays lowercase text and the values of uppercase variables until of the end of the line followed by a new line
-* copy <var> <in‐expr> evaluates an infix expression consisting of uppercase variables, single digit values, addition signs, and multiplication signs and places the result in variable var. 
+* echo <<identifier> text> displays lowercase text and the values of uppercase variables until of the end of the line followed by a new line
+* copy <<identifier> var> <in‐expr> evaluates an infix expression consisting of uppercase variables, single digit values, addition signs, and multiplication signs and places the result in variable var. 
 
 There are some restrictions on the function calls that are allowed in the EZ language.
 
