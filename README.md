@@ -1,6 +1,4 @@
-# EZInterpreter
-Interpreter for EZ language
-EZ Programming Language. 
+# EZ Programming Language
 
 Although the EZ language only has five keywords, it allows users to declare and call functions. 
 The five keywords in the EZ language are as follows:
